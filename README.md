@@ -8,9 +8,6 @@ This is a simple Python program that detects vowels in a word or phrase. The pro
 - Provides a summary of vowel counts for the given word or phrase.
 - Allows users to check multiple words or phrases in one session.
 
-## Requirements
-- Python 3.x
-
 ## How to Run the Program
 1. Ensure you have Python installed on your machine.
 2. Copy the provided code into a Python script file, e.g., `vowel_detector.py`.
